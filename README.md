@@ -1,5 +1,5 @@
 # web-Jquery
-1)API Used – ISTE website
+1)API Used – ISTE website http://ist.rit.edu/api/
 
 2)Total 9 Methods Invoked 
 ABOUT
