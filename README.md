@@ -48,7 +48,7 @@ MAPS
 •	That’s all hope you enjoyed it.
 5)I have used Proxy.php file on the server.I have also tried to make the interface user friendly and tried to keep it simple and sober as a professional website at the same time impressive. I also thought about the idea to add a YouTube video of our department so that the prospective students can anytime watch the video and get a live experience. I tested my website thoroughly for null values if at all returned by the API in some sections. I have tried not to make the website redundant and used different types of interfaces. I also solved the problem of JQuery version conflict and have used plugins with different versions as well. I have also added code for browser compatibility check in the html file.
 
-Link To My Website- https://people.rit.edu/sxr3531/ProjectJquery/
+Link To My Website- https://people.rit.edu/sxr3531/ISTEwebsite/
 
 
 Note- To properly run the website in another server machine save the files in the same organizational order.
